@@ -1,4 +1,0 @@
-Source: ros-dashing-ros-base
-Version: 0.7.2
-Description: A package which extends 'ros_core' and includes other basic functionalities like tf2 and urdf.
-Build-Depends:
